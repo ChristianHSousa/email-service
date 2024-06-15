@@ -23,7 +23,7 @@ Follow the instructions provided below to configure and run the project.
 
 HTTP
 ```bash
-https://github.com//email-service.git
+https://github.com/ChristianHSousa/email-service.git
 ```
 
 2. Install dependencies with Maven
