@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "region",
+    "type": "java.lang.String",
+    "description": "A description for 'region'"
+  },
+  {
+    "name": "secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'secretKey'"
+  },
+  {
+    "name": "aws",
+    "type": "java.lang.String",
+    "description": "A description for 'aws'"
+  },
+  {
+    "name": "accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKeyId'"
+  },
+  {
+    "name": "AWS_ACCESS_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_ACCESS_KEY'"
+  },
+  {
+    "name": "AWS_SES_EMAIL",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_SES_EMAIL'"
+  },
+  {
+    "name": "AWS_REGION",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_REGION'"
+  },
+  {
+    "name": "AWS_ACCESS_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_ACCESS_KEY'"
+  },
+  {
+    "name": "AWS_SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_SECRET_KEY'"
+  },
+  {
+    "name": "AWS_SES_EMAIL",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_SES_EMAIL'"
+  },
+  {
+    "name": "AWS_EMAIL",
+    "type": "java.lang.String",
+    "description": "A description for 'AWS_EMAIL'"
+  }
+]}
