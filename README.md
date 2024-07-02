@@ -59,7 +59,7 @@ POST /api/email –  Send a new email through the app
 {
   "to": "youremail@gmail.com",
   "subject": "teste Uber Challenger",
-  "body": " Hello world from augusto uber challenger teste 2 "
+  "body": " Hello world from Christian uber challenger test "
 }
 ```
 
