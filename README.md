@@ -4,7 +4,7 @@ This BackEnd project is an API Restfull using Java, Spring Boot following the co
 
 The API was developed for studying  and improvement of my technical backend skills also to demonstrate beginners and students how to implementing an Emails Shooting service as a core functionality of the application and others secondaries functions assigning other technologies.
 
-To solve the core functionality I’m going to follow the [Uber-Code-Challenger | email service] using Amazon SES (https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md)  repository as a guide and meeting your functional requirements and business rules.
+To solve the core functionality I’m going to follow the [Uber-Code-Challenger | email service](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md) using Amazon SES repository as a guide and meeting your functional requirements and business rules.
 
 ## Table of Contents
 
